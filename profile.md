@@ -1,4 +1,6 @@
-I am a scientist trying to make sense of soft and complex systems.  
+I am a scientist trying to make sense of soft and complex systems.
+Currently, I am a post-doc in the group of [Prof. Rene van Roij](http://www.staff.science.uu.nl/~roij0101/) 
+at the Institute for Theoretical Physics, Utrecht University.
 
 ## Publications
 11. S. Samin and Y. Tsori. Stabilization of charged and neutral colloids in salty
@@ -15,3 +17,11 @@ Phys. Chem. B, 115:75–83, (2011)
 Chem. Phys., 131:194102, (2009) [arXiv](http://arxiv.org/pdf/0907.4855)
 17.  G. Marcus, S. Samin, and Y. Tsori. Phase-separation transition in liquid mixtures
 near curved charged objects. J. Chem. Phys., 129:061101, (2008) [arXiv](http://arxiv.org/pdf/0712.2901)
+
+## Contact me
+S.Samin (at) uu.nl
+
+Institute for Theoretical Physics  
+Leuvenlaan 4  
+3584 CE Utrecht   
+The Netherlands  
