@@ -3,7 +3,7 @@ Currently, I am a post-doc in the group of [Prof. Rene van Roij](http://www.staf
 at the Institute for Theoretical Physics, Utrecht University.
 
 ## Publications
-10. S. Samin, M. Hod, E. Melamed, M. Gottlieb and Y. Tsori, Stabilization of colloids by addition of salt, Phys. Rev. Applied 2:024008 [arXiv](http://arxiv.org/pdf)
+10. S. Samin, M. Hod, E. Melamed, M. Gottlieb and Y. Tsori, Experimental Demonstration of the Stabilization of Colloids by Addition of Salt, Phys. Rev. Applied 2:024008 [arXiv](http://arxiv.org/pdf/1409.3557v1)
 11. S. Samin and Y. Tsori. Stabilization of charged and neutral colloids in salty
 mixtures. J. Chem. Phys., 139:244905 (2013) [arXiv](http://arxiv.org/pdf/1312.7199)
 12.  S. Samin, Y. Tsori, and C. Holm. Vapor–liquid coexistence of the stockmayer fluid
