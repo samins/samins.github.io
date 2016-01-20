@@ -3,7 +3,9 @@ Currently, I am a post-doc in the group of [Prof. Rene van Roij](http://www.staf
 at the Institute for Theoretical Physics, Utrecht University.
 
 ## Publications
-10. S. Samin, M. Hod, E. Melamed, M. Gottlieb and Y. Tsori, Experimental Demonstration of the Stabilization of Colloids by Addition of Salt, Phys. Rev. Applied 2:024008 [arXiv](http://arxiv.org/pdf/1409.3557v1)
+8. S. Samin and R. van Roij. Self-propulsion mechanism of active Janus particles in near-critical binary mixtures, Phys. Rev. Lett. 115:188305 (2015) [arxiv](http://arxiv.org/abs/1506.05695)
+9.  A. Härtel, M. Janssen, S. Samin and R. van Roij. Fundamental measure theory for the electric double layer: implications for blue-energy harvesting and water desalination, J. Phys.: Condens. Matter, 27:194129 (2015) [arxiv](http://arxiv.org/abs/1411.5516) 
+10. S. Samin, M. Hod, E. Melamed, M. Gottlieb and Y. Tsori. Experimental Demonstration of the Stabilization of Colloids by Addition of Salt, Phys. Rev. Applied 2:024008 (2014) [arXiv](http://arxiv.org/pdf/1409.3557v1)
 11. S. Samin and Y. Tsori. Stabilization of charged and neutral colloids in salty
 mixtures. J. Chem. Phys., 139:244905 (2013) [arXiv](http://arxiv.org/pdf/1312.7199)
 12.  S. Samin, Y. Tsori, and C. Holm. Vapor–liquid coexistence of the stockmayer fluid
