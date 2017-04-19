@@ -2,6 +2,11 @@ I am a scientist trying to make sense of soft and complex systems.
 Currently, I am a post-doc in the group of [Prof. Rene van Roij](http://www.staff.science.uu.nl/~roij0101/) 
 at the Institute for Theoretical Physics, Utrecht University.
 
+
+My research focuses on theoretical studies at the interface of soft condensed matter and
+fluid mechanics. My scientific interests include multi-phase transport at small scales,
+active colloids, electrostatics and fluid dynamics in porous materials, and suspensions of charged and magnetic colloids.
+
 ## Publications
 
 
@@ -12,7 +17,7 @@ at the Institute for Theoretical Physics, Utrecht University.
 20162.  J. C. Everts, S. Samin, and R. van Roij. Tuning Colloid-Interface Interactions by Salt Partitioning. Phys. Rev. Lett., 117:098002, (2016). [arXiv](https://arxiv.org/pdf/1603.08703)
 20163.  S. Samin and Y. Tsori. Reversible pore gating in aqueous mixtures via external potential. Colloid Interface Sci. Commun., 12:9, (2016). [arXiv](http://arxiv.org/pdf/1605.09413)
 20164.  J. C. Everts, M. T. J. J. M. Punter, S. Samin, P. van der Schoot, and R. van Roij. A Landau-de Gennes theory for hard colloidal rods: Defects and tactoids. J. Chem.
-Phys., 144(19), (2016) [arXiv](https://arxiv.org/abs/1603.05158)
+Phys., 144:19, (2016) [arXiv](https://arxiv.org/abs/1603.05158)
 20165.  V. Prymidis, S. Samin, and L. Filion. State behaviour and dynamics of self-propelled Brownian squares: a simulation study. Soft Matter, 12:4309, (2016). [journal](http://pubs.rsc.org/en/content/articlelanding/2016/sm/c6sm00347h)
 20166.  A. Härtel, S. Samin, and R. van Roij. Dense ionic fluids confined in planar capacitors: in- and out-of-plane structure from classical density functional theory. J. Phys.: Condens. Matter, 28:244007, (2016). [arXiv](https://arxiv.org/pdf/1604.07965)
 20151.  S. Samin and R. van Roij. Self-propulsion mechanism of active Janus particles in near-critical binary mixtures, Phys. Rev. Lett., 115:188305 (2015). [arXiv](http://arxiv.org/abs/1506.05695)
