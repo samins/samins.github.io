@@ -1,5 +1,5 @@
 I am a scientist trying to make sense of soft and complex systems.
-Currently, I am a post-doc in the group of [Prof. Rene van Roij](http://www.staff.science.uu.nl/~roij0101/) 
+Currently, I am a post-doc in the group of [Prof. René van Roij](http://www.staff.science.uu.nl/~roij0101/) 
 at the Institute for Theoretical Physics, Utrecht University.
 
 
