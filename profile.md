@@ -9,7 +9,8 @@ active colloids, electrostatics and fluid dynamics in porous materials, and susp
 
 ## Publications
 
-
+20170.  J.C. Everts, S. Samin, N.E. Elbers, J.E.S. van der Hoeven, A. van Blaaderen, and R. van Roij,
+Colloid-oil-water-interface interactions in the presence of multiple salts: charge regulation and dynamics. Phys. Chem. Chem. Phys., Accepted (2017). [arXiv](https://arxiv.org/abs/1703.08892)
 20171.  S. Samin and R. van Roij. Solvo-osmotic flow in electrolytic mixtures. J. Fluid Mech., 819:R1 (2017). [arXiv](https://arxiv.org/pdf/1703.06643)
 20172.  S. Chung, S. Samin, C. Holm, J. G. Malherbe, and S. Amokrane. Dynamics of field-driven population inversion in a confined colloidal mixture. Phys. Rev. E, 95:022605 (2017). [journal](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.022605)
 20173.  S. Samin and R. van Roij. Interplay between adsorption and hydrodynamics in nanochannels: towards tunable membranes. Phys. Rev. Lett., 118:014502 (2017). [arXiv](https://arxiv.org/pdf/1609.00540)
