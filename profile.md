@@ -11,12 +11,13 @@ You can also find me at [Google Scholar](https://scholar.google.nl/citations?use
 
 ## Publications
 
-20171.  S. Samin and R. van Roij. Solvo-osmotic flow in electrolytic mixtures. J. Fluid Mech., 819:R1 (2017). [arXiv](https://arxiv.org/pdf/1703.06643)
-20172.  S. Samin and R. van Roij. Interplay between adsorption and hydrodynamics in nanochannels: towards tunable membranes. Phys. Rev. Lett., 118:014502 (2017). [arXiv](https://arxiv.org/pdf/1609.00540)
-20173.  S. Chung, S. Samin, C. Holm, J. G. Malherbe, and S. Amokrane. Dynamics of field-driven population inversion in a confined colloidal mixture. Phys. Rev. E, 95:022605 (2017). [journal](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.022605)
-20174.  J.C. Everts, S. Samin, N.E. Elbers, J.E.S. van der Hoeven, A. van Blaaderen, and R. van Roij.
+20171.  J.R. Gomez-Solano, S. Samin, C. Lozano, P. Ruedas-Batuecas, R. van Roij, and C. Bechinger. Tuning the motility and directionality of self-propelled colloids. Sci. Rep., Accepted (2017). [arXiv](https://arxiv.org/pdf/1709.06339)
+20172.  S. Samin and R. van Roij. Solvo-osmotic flow in electrolytic mixtures. J. Fluid Mech., 819:R1 (2017). [arXiv](https://arxiv.org/pdf/1703.06643)
+20173.  S. Samin and R. van Roij. Interplay between adsorption and hydrodynamics in nanochannels: towards tunable membranes. Phys. Rev. Lett., 118:014502 (2017). [arXiv](https://arxiv.org/pdf/1609.00540)
+20174.  S. Chung, S. Samin, C. Holm, J. G. Malherbe, and S. Amokrane. Dynamics of field-driven population inversion in a confined colloidal mixture. Phys. Rev. E, 95:022605 (2017). [journal](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.022605)
+20175.  J.C. Everts, S. Samin, N.E. Elbers, J.E.S. van der Hoeven, A. van Blaaderen, and R. van Roij.
 Colloid-oil-water-interface interactions in the presence of multiple salts: charge regulation and dynamics. Phys. Chem. Chem. Phys., 19:14345 (2017). [arXiv](https://arxiv.org/pdf/1703.08892) 
-20175. M. Hod, A. Dobroserdova, S. Samin, C. Dobbrow, A. M. Schmidt, M. Gottlieb and S. Kantorovich. Dilution Effects on the Combined Magnetic and Electric Dipole Interactions: A Study on Ferromagnetic Cobalt Nanoparticles with Tuneable Interactions. J. Chem. Phys., Accepted (2017).
+20176. M. Hod, A. Dobroserdova, S. Samin, C. Dobbrow, A. M. Schmidt, M. Gottlieb and S. Kantorovich. Dilution Effects on the Combined Magnetic and Electric Dipole Interactions: A Study on Ferromagnetic Cobalt Nanoparticles with Tuneable Interactions. J. Chem. Phys., 147:084901 (2017). [journal](http://aip.scitation.org/doi/10.1063/1.4995428)
 20161.  S. Faez, S. Samin, D. Baasanjav, S. Weidlich, M. Schmidt, and A.P. Mosk. Nanocapillary electrokinetic tracking for monitoring charge fluctuations on a single nanoparticle. Faraday Discuss., 193:447 (2016). [journal](http://dx.doi.org/10.1039/C6FD00097E)
 20162.  J. C. Everts, S. Samin, and R. van Roij. Tuning Colloid-Interface Interactions by Salt Partitioning. Phys. Rev. Lett., 117:098002 (2016). [arXiv](https://arxiv.org/pdf/1603.08703)
 20163.  S. Samin and Y. Tsori. Reversible pore gating in aqueous mixtures via external potential. Colloid Interface Sci. Commun., 12:9 (2016). [arXiv](http://arxiv.org/pdf/1605.09413)
