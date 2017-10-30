@@ -7,11 +7,16 @@ My research focuses on theoretical studies at the interface of soft condensed ma
 fluid mechanics. My scientific interests include multi-phase transport at small scales,
 active colloids, electrostatics and fluid dynamics in porous materials, and suspensions of charged and magnetic colloids.
 
+Between 2015 and 2017 my research was funded by an EU Marie Skłodowska-Curie Actions Individual Fellowship (Project COMNACTSS).
+
+
 You can also find me at [Google Scholar](https://scholar.google.nl/citations?user=_69rpGEAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Sela_Samin)
 
 ## Publications
 
-20171.  J.R. Gomez-Solano, S. Samin, C. Lozano, P. Ruedas-Batuecas, R. van Roij, and C. Bechinger. Tuning the motility and directionality of self-propelled colloids. Sci. Rep., Accepted (2017). [arXiv](https://arxiv.org/pdf/1709.06339)
+20170.  B. Bet, R. Georgiev, W. Uspal, H.B. Eral, R. van Roij. and S. Samin. Calculating the motion of highly confined, arbitrary-shaped particles in Hele-Shaw channels. (2017). [arXiv](https://arxiv.org/pdf/1710.04561)
+20170.  N. Tasios, S. Samin, R. van Roij and M. Dijkstra. Microphase separation in oil-water mixtures containing hydrophilic and hydrophobic ions. Phys. Rev. Lett. (2017). [arXiv](https://arxiv.org/pdf/1709.00450)
+20171.  J.R. Gomez-Solano, S. Samin, C. Lozano, P. Ruedas-Batuecas, R. van Roij and C. Bechinger. Tuning the motility and directionality of self-propelled colloids. Sci. Rep. (2017). [arXiv](https://arxiv.org/pdf/1709.06339)
 20172.  S. Samin and R. van Roij. Solvo-osmotic flow in electrolytic mixtures. J. Fluid Mech., 819:R1 (2017). [arXiv](https://arxiv.org/pdf/1703.06643)
 20173.  S. Samin and R. van Roij. Interplay between adsorption and hydrodynamics in nanochannels: towards tunable membranes. Phys. Rev. Lett., 118:014502 (2017). [arXiv](https://arxiv.org/pdf/1609.00540)
 20174.  S. Chung, S. Samin, C. Holm, J. G. Malherbe, and S. Amokrane. Dynamics of field-driven population inversion in a confined colloidal mixture. Phys. Rev. E, 95:022605 (2017). [journal](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.022605)
