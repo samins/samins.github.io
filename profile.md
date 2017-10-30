@@ -14,7 +14,7 @@ You can also find me at [Google Scholar](https://scholar.google.nl/citations?use
 
 ## Publications
 
-20170.  B. Bet, R. Georgiev, W. Uspal, H.B. Eral, R. van Roij. and S. Samin. Calculating the motion of highly confined, arbitrary-shaped particles in Hele-Shaw channels. (2017). [arXiv](https://arxiv.org/pdf/1710.04561)
+20170.  B. Bet, R. Georgiev, W. Uspal, H.B. Eral, R. van Roij, and S. Samin. Calculating the motion of highly confined, arbitrary-shaped particles in Hele-Shaw channels. (2017). [arXiv](https://arxiv.org/pdf/1710.04561)
 20170.  N. Tasios, S. Samin, R. van Roij and M. Dijkstra. Microphase separation in oil-water mixtures containing hydrophilic and hydrophobic ions. Phys. Rev. Lett. (2017). [arXiv](https://arxiv.org/pdf/1709.00450)
 20171.  J.R. Gomez-Solano, S. Samin, C. Lozano, P. Ruedas-Batuecas, R. van Roij and C. Bechinger. Tuning the motility and directionality of self-propelled colloids. Sci. Rep. (2017). [arXiv](https://arxiv.org/pdf/1709.06339)
 20172.  S. Samin and R. van Roij. Solvo-osmotic flow in electrolytic mixtures. J. Fluid Mech., 819:R1 (2017). [arXiv](https://arxiv.org/pdf/1703.06643)
