@@ -1,19 +1,16 @@
-I am a scientist trying to make sense of soft and complex systems.
-Currently, I am a post-doc in the group of [Prof. René van Roij](http://www.staff.science.uu.nl/~roij0101/) 
+This page collects my work as a scientist trying to make sense of soft and complex systems. 
+Between 2014 and 2018, I was a post-doc in the group of [Prof. René van Roij](https://www.uu.nl/staff/RHHGvanRoij/0) 
 at the Institute for Theoretical Physics, Utrecht University.
-
+Between 2015 and 2017 my research was funded by an EU Marie Skłodowska-Curie Actions Individual Fellowship (Project COMNACTSS).
 
 My research focuses on theoretical studies at the interface of soft condensed matter and
 fluid mechanics. My scientific interests include multi-phase transport at small scales,
 active colloids, electrostatics and fluid dynamics in porous materials, and suspensions of charged and magnetic colloids.
 
-Between 2015 and 2017 my research was funded by an EU Marie Skłodowska-Curie Actions Individual Fellowship (Project COMNACTSS).
-
-
 You can also find me at [Google Scholar](https://scholar.google.nl/citations?user=_69rpGEAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Sela_Samin)
 
 ## Publications
-
+20180.  B. Bet, S. Samin, R. Georgiev, H. B. Eral, and R. van Roij. Steering particles by breaking symmetries. J. Phys.: Condens. Matter, 30:224002 (2018). [journal](http://iopscience.iop.org/article/10.1088/1361-648X/aabea9/meta)
 20170.  B. Bet, R. Georgiev, W. Uspal, H.B. Eral, R. van Roij, and S. Samin. Calculating the motion of highly confined, arbitrary-shaped particles in Hele-Shaw channels. (2017). [arXiv](https://arxiv.org/pdf/1710.04561)
 20170.  N. Tasios, S. Samin, R. van Roij, and M. Dijkstra. Microphase separation in oil-water mixtures containing hydrophilic and hydrophobic ions. Phys. Rev. Lett., 119:218001 (2017). [arXiv](https://arxiv.org/pdf/1709.00450)
 20171.  J.R. Gomez-Solano, S. Samin, C. Lozano, P. Ruedas-Batuecas, R. van Roij and C. Bechinger. Tuning the motility and directionality of self-propelled colloids. Sci. Rep., 7:14891 (2017). [arXiv](https://arxiv.org/pdf/1709.06339)
