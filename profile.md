@@ -10,6 +10,7 @@ active colloids, electrostatics and fluid dynamics in porous materials, and susp
 You can also find me at [Google Scholar](https://scholar.google.nl/citations?user=_69rpGEAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Sela_Samin)
 
 ## Publications
+20181. B. L. Werkhoven, J. C. Everts, S. Samin, and R. van Roij. Flow-Induced Surface Charge Heterogeneity in Electrokinetics due to Stern-Layer Conductance Coupled to Reaction Kinetics. Phys. Rev. Lett., 120:264502 (2018). [arXiv](https://arxiv.org/pdf/1805.09664)
 20180.  B. Bet, S. Samin, R. Georgiev, H. B. Eral, and R. van Roij. Steering particles by breaking symmetries. J. Phys.: Condens. Matter, 30:224002 (2018). [journal](http://iopscience.iop.org/article/10.1088/1361-648X/aabea9/meta)
 20170.  B. Bet, R. Georgiev, W. Uspal, H.B. Eral, R. van Roij, and S. Samin. Calculating the motion of highly confined, arbitrary-shaped particles in Hele-Shaw channels. (2017). [arXiv](https://arxiv.org/pdf/1710.04561)
 20170.  N. Tasios, S. Samin, R. van Roij, and M. Dijkstra. Microphase separation in oil-water mixtures containing hydrophilic and hydrophobic ions. Phys. Rev. Lett., 119:218001 (2017). [arXiv](https://arxiv.org/pdf/1709.00450)
