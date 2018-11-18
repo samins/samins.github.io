@@ -9,10 +9,13 @@ active colloids, electrostatics and fluid dynamics in porous materials, and susp
 
 You can also find me at [Google Scholar](https://scholar.google.nl/citations?user=_69rpGEAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Sela_Samin)
 
-## Publications
+## 
+20184.  J. de Graaf and S. Samin. Hot Swimming using Table Salt: The Theory behind Self-Thermoelectrophoresis. (2018) [arXiv](https://arxiv.org/pdf/1811.06073)
+201803.  Dynamic Stern layers in charge-regulating electrokinetic systems: three regimes from an analytical approach. Euro. Phys. J.: Special Topics, Accepted (2018) [arXiv](https://arxiv.org/pdf/1809.03287)
+20182.  B. L. Werkhoven, S. Samin, and R. van Roij. Flow-Induced Surface Charge Heterogeneity in Electrokinetics due to Stern-Layer Conductance Coupled to Reaction Kinetics. Phys. Rev. Lett., 120:264502 (2018). [arXiv](https://arxiv.org/pdf/1805.09664)
 20181. B. L. Werkhoven, J. C. Everts, S. Samin, and R. van Roij. Flow-Induced Surface Charge Heterogeneity in Electrokinetics due to Stern-Layer Conductance Coupled to Reaction Kinetics. Phys. Rev. Lett., 120:264502 (2018). [arXiv](https://arxiv.org/pdf/1805.09664)
 20180.  B. Bet, S. Samin, R. Georgiev, H. B. Eral, and R. van Roij. Steering particles by breaking symmetries. J. Phys.: Condens. Matter, 30:224002 (2018). [journal](http://iopscience.iop.org/article/10.1088/1361-648X/aabea9/meta)
-20170.  B. Bet, R. Georgiev, W. Uspal, H.B. Eral, R. van Roij, and S. Samin. Calculating the motion of highly confined, arbitrary-shaped particles in Hele-Shaw channels. (2017). [arXiv](https://arxiv.org/pdf/1710.04561)
+20170.  B. Bet, R. Georgiev, W. Uspal, H.B. Eral, R. van Roij, and S. Samin. Calculating the motion of highly confined, arbitrary-shaped particles in Hele-Shaw channels.  Microfluid. Nanofluid., 22:77 (2018). [arXiv](https://arxiv.org/pdf/1710.04561)
 20170.  N. Tasios, S. Samin, R. van Roij, and M. Dijkstra. Microphase separation in oil-water mixtures containing hydrophilic and hydrophobic ions. Phys. Rev. Lett., 119:218001 (2017). [arXiv](https://arxiv.org/pdf/1709.00450)
 20171.  J.R. Gomez-Solano, S. Samin, C. Lozano, P. Ruedas-Batuecas, R. van Roij and C. Bechinger. Tuning the motility and directionality of self-propelled colloids. Sci. Rep., 7:14891 (2017). [arXiv](https://arxiv.org/pdf/1709.06339)
 20172.  S. Samin and R. van Roij. Solvo-osmotic flow in electrolytic mixtures. J. Fluid Mech., 819:R1 (2017). [arXiv](https://arxiv.org/pdf/1703.06643)
@@ -31,6 +34,8 @@ Phys., 144:194901 (2016). [arXiv](https://arxiv.org/pdf/1603.05158)
 20151.  S. Samin and R. van Roij. Self-propulsion mechanism of active Janus particles in near-critical binary mixtures. Phys. Rev. Lett., 115:188305 (2015). [arXiv](http://arxiv.org/pdf/1506.05695)
 20152.  A. Härtel, M. Janssen, S. Samin and R. van Roij. Fundamental measure theory for the electric double layer: implications for blue-energy harvesting and water desalination. J. Phys.: Condens. Matter, 27:194129 (2015). [arXiv](http://arxiv.org/pdf/1411.5516) 
 20141. S. Samin, M. Hod, E. Melamed, M. Gottlieb and Y. Tsori. Experimental Demonstration of the Stabilization of Colloids by Addition of Salt. Phys. Rev. Applied, 2:024008 (2014). [arXiv](http://arxiv.org/pdf/1409.3557v1)
+20140.  J. Galanis, S. Samin, and Y. Tsori. Controlling the fluid-fluid mixing-demixing
+phase transition with electric field.  In D.S. Dean, J. Dobnikar, A. Naji, and R. Podgornik, editors, Electrostatics of Soft and Disordered Matter. Pan Stanford Publishing, (2014).
 20131. S. Samin and Y. Tsori. Stabilization of charged and neutral colloids in salty
 mixtures. J. Chem. Phys., 139:244905 (2013). [arXiv](http://arxiv.org/pdf/1312.7199)
 20132.  S. Samin, Y. Tsori, and C. Holm. Vapor–liquid coexistence of the stockmayer fluid
@@ -42,9 +47,10 @@ EPL, 95:36002 (2011). [arXiv](http://arxiv.org/pdf/1103.0544)
 20112.  S. Samin and Y. Tsori. Vapor–liquid equilibrium in electric field gradients. J.
 Phys. Chem. B, 115:75 (2011). [journal](http://pubs.acs.org/doi/abs/10.1021/jp107529n)
 20091.  S. Samin and Y. Tsori. Stability of binary mixtures in electric field gradients. J. Chem. Phys., 131:194102 (2009). [arXiv](http://arxiv.org/pdf/0907.4855)
+20090.  S. Samin, G. Marcus, and Y. Tsori. Phase-separation transition in binary mixtures
+near charged cylindrical surfaces. In P. G. J. Marro and P. I. Hurtado, editors, Proceedings of Modeling and Simulation of New Materials: Tenth Granada Lectures, AIP Conference Proceedings vol. 1091 (2009).
 20081.  G. Marcus, S. Samin, and Y. Tsori. Phase-separation transition in liquid mixtures
 near curved charged objects. J. Chem. Phys., 129:061101 (2008). [arXiv](http://arxiv.org/pdf/0712.2901)
-
 ## Contact me
 S.Samin (at) uu.nl
 
